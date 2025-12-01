@@ -2,21 +2,15 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtwmt&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtwmt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mtwmt)
 
 ## 💻 Most Used Languages
 
-### By Repository
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtwmt&layout=compact&theme=tokyonight&hide_border=true)
-
-### By Commit
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtwmt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mtwmt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/mtwmt)
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtwmt&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtwmt&theme=tokyonight&hide_border=true)](https://github.com/mtwmt)
 
 ## 📈 Contribution Graph
 
